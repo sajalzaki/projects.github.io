@@ -1,7 +1,7 @@
 /*
 * The eight queens problem is to eight chess queens on an 8×8 chessboard so 
 * that no two queens attack each other. which means that no two queens share the same row, 
-* column, or diagonal. This problem is solved with backtracking.
+* column, or diagonal. This problem is solved with backtracking using 1 dimensional array and goto statements.
 */
 #include<iostream>
 #include<cstdlib>

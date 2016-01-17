@@ -1,2 +1,2 @@
 # C++ Projects
-A list of all the projects I have done in my college so far.
+A list of all the projects in C++

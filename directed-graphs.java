@@ -10,7 +10,7 @@ import java.io.*;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.PrintWriter;
-import java .util.Scanner;
+import java.util.Scanner;
 public class Sajal323_Project2 
 {
 	public static void main(String[] args)
